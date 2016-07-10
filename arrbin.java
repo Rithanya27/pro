@@ -52,6 +52,6 @@ len[f]=temp;
 }
 }
 }
-System.out.println("Array in decreasing order:"+len[f]);
+System.out.println("Array in decreasing order "+len[f]);
 }
 }
